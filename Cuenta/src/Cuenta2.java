@@ -22,4 +22,6 @@ public class Cuenta2 {
 	int pablo;
 
 	int jcok;
+	
+	int buena;
 }
