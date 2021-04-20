@@ -5,4 +5,7 @@ public class Cuenta3 {
 		// TODO Apéndice de constructor generado automáticamente
 	}
 
+	public static void main(String[] args) {
+
+	}
 }
